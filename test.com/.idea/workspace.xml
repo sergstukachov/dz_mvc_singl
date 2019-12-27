@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d10b359-1a65-4cb5-9b9c-cd35e2f568aa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpDebugGeneral" xdebug_debug_port="9001" show_user_defined_constants="false" />
+  <component name="PhpServers">
+    <servers>
+      <server host="test.com" id="9a5a536b-a610-4999-9f95-ce584537662b" name="test.com" />
+    </servers>
+  </component>
+  <component name="PhpTemplates">
+    <option name="NEW_PHP_FILE_LAST_EXTENSION" value="phtml" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
+  <component name="PhpXdebugProxy" ide_key="PHPSTORM" host="127.0.0.1" />
+  <component name="ProjectId" id="1VXA9GzdcxBKTW6ECW6jzUJhFDE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mvc.test" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.debug" />
+  </component>
+  <component name="RunManager">
+    <configuration name="test.com" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="test.com">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d10b359-1a65-4cb5-9b9c-cd35e2f568aa" name="Default Changelist" comment="" />
+      <created>1577388912308</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577388912308</updated>
+      <workItem from="1577388913706" duration="229000" />
+      <workItem from="1577389252563" duration="594000" />
+      <workItem from="1577389882302" duration="266000" />
+      <workItem from="1577390170482" duration="323000" />
+      <workItem from="1577390509767" duration="608000" />
+      <workItem from="1577391139797" duration="188000" />
+      <workItem from="1577391344103" duration="7000" />
+      <workItem from="1577391486336" duration="3000" />
+      <workItem from="1577391876540" duration="141000" />
+      <workItem from="1577393495345" duration="10883000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="576" y="210" width="824" height="684" key="#Servers" timestamp="1577389015829">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="576" y="210" width="824" height="684" key="#Servers/67.27.1853.1053@67.27.1853.1053" timestamp="1577389015829" />
+    <state x="451" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577389032406">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="451" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1577389032406" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1577397077104">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1577397077104" />
+    <state width="1807" height="322" key="GridCell.Tab.0.bottom" timestamp="1577403825396">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="322" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1577403825396" />
+    <state width="1807" height="322" key="GridCell.Tab.0.center" timestamp="1577403825396">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="322" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1577403825396" />
+    <state width="1807" height="322" key="GridCell.Tab.0.left" timestamp="1577403825396">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="322" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1577403825396" />
+    <state width="1807" height="322" key="GridCell.Tab.0.right" timestamp="1577403825396">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="322" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1577403825396" />
+    <state width="1807" height="322" key="GridCell.Tab.1.bottom" timestamp="1577403825397">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="322" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1577403825397" />
+    <state width="1807" height="322" key="GridCell.Tab.1.center" timestamp="1577403825397">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="322" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1577403825397" />
+    <state width="1807" height="322" key="GridCell.Tab.1.left" timestamp="1577403825396">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="322" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1577403825396" />
+    <state width="1807" height="322" key="GridCell.Tab.1.right" timestamp="1577403825397">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="322" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1577403825397" />
+    <state width="1807" height="322" key="GridCell.Tab.2.bottom" timestamp="1577403825398">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="322" key="GridCell.Tab.2.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1577403825398" />
+    <state width="1807" height="322" key="GridCell.Tab.2.center" timestamp="1577403825398">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="322" key="GridCell.Tab.2.center/67.27.1853.1053@67.27.1853.1053" timestamp="1577403825398" />
+    <state width="1807" height="322" key="GridCell.Tab.2.left" timestamp="1577403825397">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="322" key="GridCell.Tab.2.left/67.27.1853.1053@67.27.1853.1053" timestamp="1577403825397" />
+    <state width="1807" height="322" key="GridCell.Tab.2.right" timestamp="1577403825398">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="322" key="GridCell.Tab.2.right/67.27.1853.1053@67.27.1853.1053" timestamp="1577403825398" />
+    <state x="788" y="478" width="399" height="149" key="NewPhpFileDialog" timestamp="1577393663782">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="788" y="478" width="399" height="149" key="NewPhpFileDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1577393663782" />
+    <state x="482" y="187" key="SettingsEditor" timestamp="1577389569640">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1577389569640" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1577391877892">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1577391877892" />
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1577402492989">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1577402492989" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controllers/BookController.php</url>
+          <line>24</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/index.php</url>
+          <line>4</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controllers/BookController.php</url>
+          <line>19</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="index.php">
+        <watch expression="$book" language="PHP" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

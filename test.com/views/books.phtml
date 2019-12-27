@@ -1,0 +1,16 @@
+<html>
+<head>
+    <title>Books</title>
+</head>
+<body>
+<h1>Books</h1>
+<div class="content">
+    <?php foreach ($books as $book): ?>
+        <div><?= $book['ID']; ?></div>
+        <div> <?= $book['NAME']; ?> </div>
+    <?php endforeach; ?>
+</div>
+</body>
+</html>
+
+
